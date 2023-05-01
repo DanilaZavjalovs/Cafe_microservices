@@ -20,3 +20,5 @@ Example of body:
 ![Untitledasdad](https://user-images.githubusercontent.com/54581698/235478002-fdf83ac3-00fb-48c9-a5a3-46b8741ffae9.png)
 
 If you want to get notification, then you need to log in by keycloack, because notification's api are secured by OAuth 2.
+
+Also you can check application architecture diagram.
